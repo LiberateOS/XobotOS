@@ -54,7 +54,8 @@
       ],
       'link_settings': {
         'libraries': [
-          '-lpng'
+          '-lpng',
+          '-lz'
         ],
       },
       'dependencies': [
