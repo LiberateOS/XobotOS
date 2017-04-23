@@ -1,3 +1,6 @@
+A build guide can be found here:
+https://wiki.liberateos.org/index.php?title=XobotOS
+
 XobotOS project
 ===============
 
@@ -112,7 +115,12 @@ future so other developers can more easily port Java code to C#.
 Support 
 =======
 
-This code is provided as-is, and we do not offer support for any bits
-of code here, nor does Xamarin plan on continuing evolving XobotOS at
-this point.
+Further documentation can be found at https://wiki.liberateos.org/index.php?title=XobotOS
+If you find issues in the code or need assistance, please open a
+issue on GitHub. For feedback and discussions you our community
+at https://www.liberateos.org/community.html
 
+And we need your help to:
+
+1. Create the Sharpen documentation promised by Xamarin above that was never published as far as we know
+2. Improve the code as specially in regards to interacting with the native Android libraries
